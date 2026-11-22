@@ -1,7 +1,7 @@
 {
   "property": "encryptedcb.com",
-  "builtFromSha": "605e89e037145e059f15598e88a496c996315fde",
-  "builtAt": "2026-11-22T01:51:59.363Z",
+  "builtFromSha": "376d18cc68b42439a22a18d0ea25c88eff938a90",
+  "builtAt": "2026-11-22T03:01:27.622Z",
   "routes": {
     "/": {
       "status": 200,
@@ -9,7 +9,7 @@
     },
     "/cb": {
       "status": 200,
-      "bytes": 41402
+      "bytes": 41460
     },
     "/cb-welcome": {
       "status": 200,
