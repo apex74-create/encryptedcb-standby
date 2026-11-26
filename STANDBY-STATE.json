@@ -1,7 +1,7 @@
 {
   "property": "encryptedcb.com",
-  "builtFromSha": "59c46d01d5b8ab8d5ec2f00306b73674a131ff31",
-  "builtAt": "2026-11-26T08:31:32.031Z",
+  "builtFromSha": "4eee01ef0037bdf0fb842a0499e86ac61065cb44",
+  "builtAt": "2026-11-26T09:47:00.724Z",
   "routes": {
     "/": {
       "status": 200,
